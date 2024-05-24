@@ -1,5 +1,5 @@
 # SWEN90010-Alloy-Formal-Specification
-Contributors: Wenwen Yan, Yingying Guo
+Contributors: Yingying Guo, Wenwen Yan
 
 Software: Alloy 6 (from the Alloy website: http://alloytools.org/)
 
